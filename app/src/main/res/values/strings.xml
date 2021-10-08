@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+    <string name="post">24</string>
+    <string name="following">872</string>
+    <string name="follow">389</string>
+    <string name="tag_post">Post</string>
+    <string name="tag_followers">Followers</string>
+    <string name="tag_following">Following</string>
+    <string name="tag_p1">Hal menarik ada di</string>
+    <string name="tag_name">ARIA</string>
+    <string name="btn_follow">Follow</string>
+    <string name="btn_message">Message</string>
+    <string name="dna">DNA</string>
+    <string name="breathable_lightweight_flat_knit_upper_with_synthetic_overlays_for_strategic_support_bi_directional_internal_fit_structure_with_independent_layers_for_lockdown_lateral_containment_bootie_construction_provides_a_sock_like_fit_feel_with_a_high_stretch_collar_for_easy_entry_new_ua_flow_cushioning_technology_is_super_light_bouncy_provides_insane_grip_flexible_pebax_plate_adds_support_stability_to_every_move_durable_ua_flow_outsole_provides_better_court_feel_so_you_can_cut_stop_start_faster_than_ever_before"><![CDATA[Breathable, lightweight flat knit upper with synthetic overlays for strategic support Bi-directional internal fit structure with independent layers for lockdown & lateral containment Bootie construction provides a sock-like fit & feel with a high-stretch collar for easy entry New UA Flow cushioning technology is super-light, bouncy & provides insane grip Flexible Pebax® plate adds support & stability to every move Durable UA Flow outsole provides better court feel so you can cut & stop/start faster than ever before]]></string>
+    <string name="spec">Spec</string>
+    <string name="style_3023085_weight_12_1_oz_imported">Style #: 3023085 Weight: 12.1 oz. Imported</string>
+    <string name="fit_care"><![CDATA[Fit & care]]></string>
+    <string name="regular">Regular</string>
+    <string name="todo">TODO</string>
+    <string name="curry_flow_8_basketball_shoes">Curry Flow 8 Basketball Shoes</string>
+    <string name="_160_00">$160.00</string>
+    <string name="_4_interest_free_payments_of_40_00_with_klarna">4 interest-free payments of $40.00 with Klarna</string>
+    <string name="size_available">Size Available</string>
+    <string name="_40">40</string>
+    <string name="_41">41</string>
+    <string name="_43">43</string>
+    <string name="_42">42</string>
+    <string name="_45">45</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
